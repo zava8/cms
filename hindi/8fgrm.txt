@@ -1,0 +1,5 @@
+india rishi pinggl(pingala) original maths :
+8 finger based hexadecimal binary maths , not decimal/binary coded decimal maths.
+precision layers bases not floating decimal point . no fpu. so alu=cpu (github.com/zava8/plong , fb.com/8fgrm)
+https://mathigon.org/timeline/pingala
+====

@@ -1,0 +1,4 @@
+dell_linux_xfce:
+pk-client-error-quark: E: http://packages.linuxmint.com una/backport amd64 bcmwl-kernel-source amd64 6.30.223.271+bdcom-0ubuntu8 is not (yet) available (Could not resolve 'packages.linuxmint.com')
+ (265)
+bcm4313 802.11 : bcmwl-kernel-source

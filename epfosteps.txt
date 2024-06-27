@@ -1,0 +1,11 @@
+1. सबसे पहले epfo पोर्टल www.epfindia.gov.in पर जाना होगा.
+2. उसके बाद Aआपको e-passbook option पर click करना होगा.
+3. नया पेज(page) ओपन होगा और उसमे Aआपको uan, पासवर्ड और कैप्चा कोड(captcha code) डालना होगा और लoगइन करना होगा.
+4. लoगइन करने के बाद Aआपको passbook के लिए member id option को चुनना होगा.
+5. ziसके बाद Aआपको pdf format मे पासबुक miल जाएगी, ziसे डाउनलोड kiया जा सकता है.
+6. वहीं आप https://passbook.epfindia.gov.in/ पर direct पासबुक access कर सकते है.
+
+
+
+
+
